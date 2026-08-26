@@ -8,11 +8,11 @@ function Header() {
                 <div className="flex items-center justify-between h-16">
                     {/* Logo and Title */}
                     <div className="flex items-center space-x-3">
-                        <div className="bg-gradient-to-r from-blue-500 to-purple-500 p-2 rounded-lg">
+                        <div className="bg-gradient-to-r from-rose-400 to-purple-500 p-2 rounded-lg">
                             <Code className="h-5 w-5 text-white" />
                         </div>
                         <h1 className="text-xl font-bold text-white">
-                            AI Powered Website Builder
+                            My AI site Builder
                         </h1>
                     </div>
 
